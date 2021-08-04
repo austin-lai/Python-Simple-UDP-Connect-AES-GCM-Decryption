@@ -1,6 +1,6 @@
-# Python-Simple-UDP-Connect-AES-GCM
+# Python Simple UDP Connect AES GCM
 
-> Austin Lai | August 3rd, 2021
+> Austin Lai | August 4th, 2021
 
 ---
 
@@ -10,7 +10,7 @@ Python Simple UDP Connect using socket with AES GCM decryption to get flag
 
 Created for one of TryHackMe Room.
 
-**[Please check out the full script _here_]()
+**[Please check out the full script _here_](https://github.com/austin-lai/Python-Simple-UDP-Connect-AES-GCM/blob/main/python-connect-udp-aes-gcm-get-flag.py)**
 
 <!-- /Description -->
 
