@@ -27,6 +27,8 @@ Then will need you to send 4 message to UDP server to get response and instructi
 
 Then it will decrypt the AES GCM and check the 256 checksum against the one given by UDP Server.
 
+Additionally, you may checkout [this link](https://codingdict.com/sources/py/Crypto.Cipher.AES/8675.html) for python aes-gcm encrypt/decrypt
+
 <br />
 
 ---
