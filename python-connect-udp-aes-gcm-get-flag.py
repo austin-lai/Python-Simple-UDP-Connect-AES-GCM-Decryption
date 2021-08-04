@@ -44,8 +44,9 @@ clientSock.connect((UDP_IP_ADDRESS,UDP_PORT_NO))
 
 
 # Extract the SHA256 checksum given in the instruction
-# checksum = ready[104:136]
-checksum = b']w\xf0\x18\xd2\xbfwx`T\x86U\xd8Ms\x82\xdc\'\xd6\xce\x81n\xdeh\xf6]rb\x14c\xd9\xda'
+# checksum = b']w\xf0\x18\xd2\xbfwx`T\x86U\xd8Ms\x82\xdc\'\xd6\xce\x81n\xdeh\xf6]rb\x14c\xd9\xda'
+checksum = ready[104:136]
+
 
 # Change the byte to hex for the 'SHA256 checksum'
 hex_checksum = checksum.hex()
