@@ -1,4 +1,4 @@
-# Python Simple UDP Connect AES GCM
+# Python Simple UDP Connect AES GCM Decryption
 
 > Austin Lai | August 4th, 2021
 
