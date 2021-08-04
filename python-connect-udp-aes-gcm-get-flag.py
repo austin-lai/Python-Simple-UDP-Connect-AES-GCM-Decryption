@@ -3,8 +3,8 @@ from Crypto.Cipher import AES
 
 
 
-UDP_IP_ADDRESS = "10.10.149.151"
-UDP_PORT_NO = 4000
+UDP_IP_ADDRESS = "UDP SERVER IP or HOSTNAME HERE"
+UDP_PORT_NO = 4000 # UDP Server Port Number
 
 # Create socket connect
 clientSock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
